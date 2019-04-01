@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.46">
+  <bounds minlon="122.56070" minlat="20.08228" maxlon="154.47090" maxlat="45.80245" origin="0.46"/>
+  <relation id="1469912" version="1" timestamp="2011-03-11T19:56:17Z" uid="0" user="">
+    <member type="way" ref="103697671" role="outer"/>
+    <member type="way" ref="103697669" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="1470556" version="1" timestamp="2011-03-12T08:57:39Z" uid="0" user="">
+    <member type="way" ref="103767127" role="outer"/>
+    <member type="way" ref="103767128" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2122866" version="2" timestamp="2018-11-04T13:44:17Z" uid="0" user="">
+    <member type="way" ref="158486552" role="outer"/>
+    <member type="way" ref="158486557" role="outer"/>
+    <tag k="name" v="早明浦ダム"/>
+    <tag k="operator" v="水資源機構"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikidata" v="Q7409305"/>
+  </relation>
+  <relation id="2236875" version="1" timestamp="2012-06-17T02:00:06Z" uid="0" user="">
+    <member type="way" ref="167705302" role="outer"/>
+    <member type="way" ref="167705301" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2304893" version="3" timestamp="2012-09-08T20:50:59Z" uid="0" user="">
+    <member type="way" ref="88513052" role="outer"/>
+    <member type="way" ref="172625397" role="outer"/>
+    <tag k="name" v="満濃池堰堤"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="natural" v="heath"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2456239" version="1" timestamp="2012-10-06T11:51:29Z" uid="0" user="">
+    <member type="way" ref="184422082" role="outer"/>
+    <member type="way" ref="88161496" role="outer"/>
+    <member type="way" ref="184422080" role="outer"/>
+    <member type="way" ref="184422054" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="layer" v="-2"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="source:ja" v="国土画像情報（カラー空中写真）国土計画局"/>
+  </relation>
+  <relation id="2456329" version="1" timestamp="2012-10-06T12:57:31Z" uid="0" user="">
+    <member type="way" ref="184429792" role="outer"/>
+    <member type="way" ref="184429791" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="natural" v="heath"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2456330" version="1" timestamp="2012-10-06T12:57:33Z" uid="0" user="">
+    <member type="way" ref="184429790" role="outer"/>
+    <member type="way" ref="184429793" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="natural" v="heath"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2460671" version="2" timestamp="2017-03-22T07:27:51Z" uid="0" user="">
+    <member type="way" ref="184730567" role="outer"/>
+    <member type="way" ref="184730569" role="outer"/>
+    <tag k="name" v="五郷ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2515536" version="1" timestamp="2012-10-20T13:07:28Z" uid="0" user="">
+    <member type="way" ref="186760221" role="outer"/>
+    <member type="way" ref="186760220" role="outer"/>
+    <member type="way" ref="87935387" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="natural" v="heath"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2515537" version="1" timestamp="2012-10-20T13:07:28Z" uid="0" user="">
+    <member type="way" ref="186760227" role="outer"/>
+    <member type="way" ref="186760224" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2515538" version="1" timestamp="2012-10-20T13:07:28Z" uid="0" user="">
+    <member type="way" ref="186760222" role="outer"/>
+    <member type="way" ref="87935381" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2590432" version="1" timestamp="2012-11-23T05:13:28Z" uid="0" user="">
+    <member type="way" ref="192179881" role="outer"/>
+    <member type="way" ref="192179894" role="outer"/>
+    <tag k="note" v="dam"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2590552" version="1" timestamp="2012-11-23T07:52:53Z" uid="0" user="">
+    <member type="way" ref="192203216" role="outer"/>
+    <member type="way" ref="192203215" role="outer"/>
+    <member type="way" ref="192203220" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2848211" version="1" timestamp="2013-03-29T16:02:53Z" uid="0" user="">
+    <member type="way" ref="213869704" role="outer"/>
+    <member type="way" ref="213869703" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="survey"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="2992158" version="1" timestamp="2013-06-10T08:15:31Z" uid="0" user="">
+    <member type="way" ref="225075923" role="outer"/>
+    <member type="way" ref="44174444" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="Bing"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="5152594" version="1" timestamp="2015-05-18T12:36:13Z" uid="0" user="">
+    <member type="way" ref="345986929" role="outer"/>
+    <member type="way" ref="286257535" role="outer"/>
+    <member type="way" ref="286257878" role="outer"/>
+    <member type="way" ref="286257879" role="outer"/>
+    <tag k="name" v="仁賀ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="survey;Bing,Sep/2006-Dec/2007"/>
+    <tag k="name:ja" v="仁賀ダム"/>
+    <tag k="operator" v="広島県"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="operator:ja" v="広島県"/>
+  </relation>
+  <relation id="6180114" version="1" timestamp="2016-04-30T03:17:40Z" uid="0" user="">
+    <member type="way" ref="414535725" role="outer"/>
+    <member type="way" ref="414535720" role="outer"/>
+    <tag k="name" v="大保ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="Bing"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6180115" version="1" timestamp="2016-04-30T03:17:40Z" uid="0" user="">
+    <member type="way" ref="414535721" role="outer"/>
+    <member type="way" ref="414535724" role="outer"/>
+    <tag k="name" v="大保ダム(脇ダム)"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="Bing"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6180452" version="1" timestamp="2016-04-30T09:19:51Z" uid="0" user="">
+    <member type="way" ref="414585021" role="outer"/>
+    <member type="way" ref="414585027" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6180453" version="1" timestamp="2016-04-30T09:19:51Z" uid="0" user="">
+    <member type="way" ref="414585019" role="outer"/>
+    <member type="way" ref="414585023" role="outer"/>
+    <member type="way" ref="414585020" role="outer"/>
+    <member type="way" ref="414585024" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6182317" version="2" timestamp="2018-11-13T14:40:16Z" uid="0" user="">
+    <member type="way" ref="414752101" role="outer"/>
+    <member type="way" ref="414752102" role="outer"/>
+    <tag k="name" v="福地ダム-"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikidata" v="Q5507662"/>
+  </relation>
+  <relation id="6187018" version="1" timestamp="2016-05-03T08:20:51Z" uid="0" user="">
+    <member type="way" ref="415221748" role="outer"/>
+    <member type="way" ref="415174164" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6189324" version="1" timestamp="2016-05-04T08:03:36Z" uid="0" user="">
+    <member type="way" ref="415435415" role="outer"/>
+    <member type="way" ref="415435417" role="outer"/>
+    <tag k="name" v="辺野喜ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6433958" version="1" timestamp="2016-07-24T07:48:03Z" uid="0" user="">
+    <member type="way" ref="375232165" role="outer"/>
+    <member type="way" ref="432839853" role="outer"/>
+    <tag k="name" v="真喜屋ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6447119" version="2" timestamp="2018-11-13T14:40:17Z" uid="0" user="">
+    <member type="way" ref="366040835" role="outer"/>
+    <member type="way" ref="434839758" role="outer"/>
+    <tag k="name" v="羽地ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikidata" v="Q5647761"/>
+  </relation>
+  <relation id="6484943" version="1" timestamp="2016-08-11T20:46:48Z" uid="0" user="">
+    <member type="way" ref="436781037" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="前川ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6523582" version="1" timestamp="2016-08-23T09:46:31Z" uid="0" user="">
+    <member type="way" ref="438364061" role="inner"/>
+    <member type="way" ref="438514662" role="inner"/>
+    <member type="way" ref="438514663" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="越流堰"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="bing"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6523609" version="1" timestamp="2016-08-23T09:54:58Z" uid="0" user="">
+    <member type="way" ref="438364065" role="inner"/>
+    <member type="way" ref="438515889" role="inner"/>
+    <member type="way" ref="438515890" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="越流堰"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="source" v="bing"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6659915" version="1" timestamp="2016-10-21T13:20:56Z" uid="0" user="">
+    <member type="way" ref="448811564" role="outer"/>
+    <member type="way" ref="448811566" role="outer"/>
+    <member type="way" ref="448811567" role="outer"/>
+    <member type="way" ref="448811565" role="inner"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="船明ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="name:en" v="Funagira Dam"/>
+    <tag k="name:ja" v="船明ダム"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6731931" version="1" timestamp="2016-11-23T16:53:15Z" uid="0" user="">
+    <member type="way" ref="455328399" role="outer"/>
+    <member type="way" ref="455328400" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="大鳥居発電所 取水堰堤"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="6903369" version="5" timestamp="2017-03-18T05:48:25Z" uid="0" user="">
+    <member type="way" ref="468382400" role="outer"/>
+    <member type="way" ref="467989049" role="outer"/>
+    <member type="way" ref="468382404" role="outer"/>
+    <member type="way" ref="467989055" role="outer"/>
+    <tag k="name" v="常盤ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikidata" v="Q7813620"/>
+    <tag k="wikipedia" v="ja:常盤ダム (長野県)"/>
+  </relation>
+  <relation id="6909442" version="1" timestamp="2017-01-25T13:59:43Z" uid="0" user="">
+    <member type="way" ref="216499701" role="outer"/>
+    <member type="way" ref="468606762" role="outer"/>
+    <tag k="name" v="油谷ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7078069" version="2" timestamp="2017-03-16T11:37:47Z" uid="0" user="">
+    <member type="way" ref="480829025" role="outer"/>
+    <member type="way" ref="480829027" role="outer"/>
+    <member type="way" ref="480829029" role="outer"/>
+    <member type="way" ref="480829026" role="outer"/>
+    <tag k="name" v="浜田ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7078071" version="1" timestamp="2017-03-16T11:31:21Z" uid="0" user="">
+    <member type="way" ref="480829033" role="outer"/>
+    <member type="way" ref="480829034" role="outer"/>
+    <tag k="name" v="第二浜田ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7129595" version="1" timestamp="2017-04-03T03:24:55Z" uid="0" user="">
+    <member type="way" ref="484453985" role="outer"/>
+    <member type="way" ref="484453986" role="outer"/>
+    <member type="way" ref="484453987" role="outer"/>
+    <member type="way" ref="483846251" role="outer"/>
+    <member type="way" ref="484453988" role="outer"/>
+    <tag k="name" v="坂本ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7296775" version="1" timestamp="2017-05-31T03:58:12Z" uid="0" user="">
+    <member type="way" ref="497058437" role="outer"/>
+    <member type="way" ref="496808422" role="outer"/>
+    <member type="way" ref="497058438" role="outer"/>
+    <member type="way" ref="497058441" role="outer"/>
+    <member type="way" ref="497058440" role="outer"/>
+    <member type="way" ref="496808426" role="outer"/>
+    <tag k="name" v="土用ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikipedia" v="ja:土用ダム"/>
+  </relation>
+  <relation id="7364594" version="1" timestamp="2017-06-30T04:02:09Z" uid="0" user="">
+    <member type="way" ref="504128184" role="outer"/>
+    <member type="way" ref="504128185" role="outer"/>
+    <tag k="name" v="比奈地ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7433878" version="1" timestamp="2017-08-01T04:03:26Z" uid="0" user="">
+    <member type="way" ref="511882918" role="outer"/>
+    <member type="way" ref="511882946" role="outer"/>
+    <member type="way" ref="511882920" role="outer"/>
+    <member type="way" ref="511882932" role="outer"/>
+    <member type="way" ref="511882948" role="outer"/>
+    <tag k="name" v="前山ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7503876" version="1" timestamp="2017-08-24T04:01:29Z" uid="0" user="">
+    <member type="way" ref="518161799" role="outer"/>
+    <member type="way" ref="518161797" role="outer"/>
+    <member type="way" ref="96909286" role="outer"/>
+    <member type="way" ref="518161808" role="outer"/>
+    <tag k="name" v="大原調整池ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7504464" version="1" timestamp="2017-08-24T10:32:31Z" uid="0" user="">
+    <member type="way" ref="518275864" role="outer"/>
+    <member type="way" ref="518275887" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7554713" version="1" timestamp="2017-09-08T14:15:31Z" uid="0" user="">
+    <member type="way" ref="522497172" role="outer"/>
+    <member type="way" ref="522497153" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7574464" version="1" timestamp="2017-09-14T12:11:40Z" uid="0" user="">
+    <member type="way" ref="524639070" role="outer"/>
+    <member type="way" ref="524639062" role="outer"/>
+    <member type="way" ref="524639065" role="outer"/>
+    <member type="way" ref="524639063" role="outer"/>
+    <member type="way" ref="524639067" role="outer"/>
+    <member type="way" ref="524639064" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="浜原ダム"/>
+    <tag k="name:ja" v="浜原ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikipedia" v="ja:浜原ダム"/>
+  </relation>
+  <relation id="7691019" version="1" timestamp="2017-10-29T13:34:15Z" uid="0" user="">
+    <member type="way" ref="111504906" role="outer"/>
+    <member type="way" ref="536662465" role="outer"/>
+    <tag k="name" v="羽布ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7825688" version="1" timestamp="2017-12-20T07:18:57Z" uid="0" user="">
+    <member type="way" ref="548065813" role="outer"/>
+    <member type="way" ref="548065814" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="合角ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7868020" version="1" timestamp="2018-01-02T10:18:56Z" uid="0" user="">
+    <member type="way" ref="550405770" role="outer"/>
+    <member type="way" ref="292032687" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7868036" version="1" timestamp="2018-01-02T10:34:28Z" uid="0" user="">
+    <member type="way" ref="550407613" role="outer"/>
+    <member type="way" ref="229940358" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7868037" version="1" timestamp="2018-01-02T10:34:28Z" uid="0" user="">
+    <member type="way" ref="550407614" role="outer"/>
+    <member type="way" ref="229940342" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7868038" version="1" timestamp="2018-01-02T10:34:28Z" uid="0" user="">
+    <member type="way" ref="550407616" role="outer"/>
+    <member type="way" ref="292304192" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7868129" version="1" timestamp="2018-01-02T11:18:28Z" uid="0" user="">
+    <member type="way" ref="550413509" role="outer"/>
+    <member type="way" ref="388048368" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7868173" version="1" timestamp="2018-01-02T11:29:39Z" uid="0" user="">
+    <member type="way" ref="550415205" role="outer"/>
+    <member type="way" ref="229940343" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7870986" version="1" timestamp="2018-01-03T08:34:42Z" uid="0" user="">
+    <member type="way" ref="550592420" role="outer"/>
+    <member type="way" ref="229940326" role="inner"/>
+    <member type="way" ref="229940364" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7871014" version="1" timestamp="2018-01-03T08:44:24Z" uid="0" user="">
+    <member type="way" ref="550593783" role="outer"/>
+    <member type="way" ref="550593781" role="inner"/>
+    <member type="way" ref="550593782" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="7871033" version="1" timestamp="2018-01-03T08:52:39Z" uid="0" user="">
+    <member type="way" ref="550595165" role="outer"/>
+    <member type="way" ref="550595164" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8151982" version="1" timestamp="2018-03-27T11:38:48Z" uid="0" user="">
+    <member type="way" ref="573559168" role="outer"/>
+    <member type="way" ref="573559169" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8330758" version="2" timestamp="2018-05-28T13:27:35Z" uid="0" user="">
+    <member type="way" ref="591283846" role="outer"/>
+    <member type="way" ref="591283849" role="outer"/>
+    <member type="way" ref="591283851" role="outer"/>
+    <member type="way" ref="591283850" role="outer"/>
+    <member type="way" ref="591283847" role="outer"/>
+    <member type="way" ref="591283848" role="outer"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8648382" version="1" timestamp="2018-09-05T03:00:07Z" uid="0" user="">
+    <member type="way" ref="622931849" role="outer"/>
+    <member type="way" ref="622931848" role="outer"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="黒田ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikidata" v="Q3435324"/>
+    <tag k="wikipedia" v="ja:黒田ダム"/>
+  </relation>
+  <relation id="8714537" version="1" timestamp="2018-09-19T11:49:46Z" uid="0" user="">
+    <member type="way" ref="626646087" role="outer"/>
+    <member type="way" ref="626646078" role="outer"/>
+    <member type="way" ref="626646095" role="outer"/>
+    <member type="way" ref="626646096" role="outer"/>
+    <tag k="name" v="朝鍋ダム"/>
+    <tag k="name:ja" v="朝鍋ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8807389" version="1" timestamp="2018-10-12T17:48:30Z" uid="0" user="">
+    <member type="way" ref="633447274" role="outer"/>
+    <member type="way" ref="633447273" role="outer"/>
+    <member type="way" ref="633447272" role="outer"/>
+    <member type="way" ref="633447271" role="outer"/>
+    <tag k="name" v="多々良木ダム"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814343" version="1" timestamp="2018-10-14T23:51:34Z" uid="0" user="">
+    <member type="way" ref="634024001" role="outer"/>
+    <member type="way" ref="634023998" role="outer"/>
+    <member type="way" ref="634023999" role="outer"/>
+    <member type="way" ref="634024000" role="outer"/>
+    <member type="way" ref="634023997" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814344" version="1" timestamp="2018-10-14T23:51:34Z" uid="0" user="">
+    <member type="way" ref="634024012" role="outer"/>
+    <member type="way" ref="634024009" role="outer"/>
+    <member type="way" ref="634024010" role="outer"/>
+    <member type="way" ref="634024011" role="outer"/>
+    <member type="way" ref="634024013" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814398" version="1" timestamp="2018-10-15T00:44:44Z" uid="0" user="">
+    <member type="way" ref="634030361" role="outer"/>
+    <member type="way" ref="634030359" role="outer"/>
+    <member type="way" ref="634030357" role="outer"/>
+    <member type="way" ref="634030356" role="outer"/>
+    <member type="way" ref="634030363" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814399" version="1" timestamp="2018-10-15T00:44:44Z" uid="0" user="">
+    <member type="way" ref="634030369" role="outer"/>
+    <member type="way" ref="634030366" role="outer"/>
+    <member type="way" ref="634030364" role="outer"/>
+    <member type="way" ref="634030368" role="outer"/>
+    <member type="way" ref="634030371" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814400" version="1" timestamp="2018-10-15T00:44:44Z" uid="0" user="">
+    <member type="way" ref="634030399" role="outer"/>
+    <member type="way" ref="634030395" role="outer"/>
+    <member type="way" ref="634030396" role="outer"/>
+    <member type="way" ref="634030397" role="outer"/>
+    <member type="way" ref="634030398" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814532" version="1" timestamp="2018-10-15T02:28:12Z" uid="0" user="">
+    <member type="way" ref="634043378" role="outer"/>
+    <member type="way" ref="634043377" role="outer"/>
+    <member type="way" ref="634043376" role="outer"/>
+    <member type="way" ref="634043375" role="outer"/>
+    <member type="way" ref="634043379" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8814535" version="1" timestamp="2018-10-15T02:30:47Z" uid="0" user="">
+    <member type="way" ref="634043467" role="outer"/>
+    <member type="way" ref="634043465" role="outer"/>
+    <member type="way" ref="634043464" role="outer"/>
+    <member type="way" ref="634043463" role="outer"/>
+    <member type="way" ref="634043466" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8835663" version="1" timestamp="2018-10-21T08:34:39Z" uid="0" user="">
+    <member type="way" ref="636502196" role="outer"/>
+    <member type="way" ref="636502198" role="outer"/>
+    <member type="way" ref="636502200" role="outer"/>
+    <member type="way" ref="636502197" role="outer"/>
+    <member type="way" ref="636502199" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8835664" version="1" timestamp="2018-10-21T08:34:39Z" uid="0" user="">
+    <member type="way" ref="636502202" role="outer"/>
+    <member type="way" ref="636502203" role="outer"/>
+    <member type="way" ref="636502204" role="outer"/>
+    <member type="way" ref="636502205" role="outer"/>
+    <member type="way" ref="636502201" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+  <relation id="8835753" version="1" timestamp="2018-10-21T09:13:41Z" uid="0" user="">
+    <member type="way" ref="636505624" role="outer"/>
+    <member type="way" ref="636505625" role="outer"/>
+    <member type="way" ref="636505626" role="outer"/>
+    <member type="way" ref="636505627" role="outer"/>
+    <member type="way" ref="636505623" role="outer"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="waterway" v="dam"/>
+  </relation>
+</osm>

@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.46">
+  <bounds minlon="122.56070" minlat="20.08228" maxlon="154.47090" maxlat="45.80245" origin="0.46"/>
+  <node id="420455133" version="2" timestamp="2016-11-26T15:53:44Z" uid="0" user="" lat="34.8575399" lon="138.0110711">
+    <tag k="ele" v="147"/>
+    <tag k="name" v="原野谷川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="726005672" version="2" timestamp="2014-02-20T14:32:08Z" uid="0" user="" lat="35.4599511" lon="137.2944271">
+    <tag k="name" v="笠置ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="727112000" version="2" timestamp="2014-02-20T12:27:25Z" uid="0" user="" lat="35.099639" lon="137.793993">
+    <tag k="name" v="佐久間ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="734361374" version="2" timestamp="2016-06-12T06:29:46Z" uid="0" user="" lat="34.4563007" lon="136.6606481">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="735292818" version="3" timestamp="2018-07-10T13:49:50Z" uid="0" user="" lat="34.972407" lon="137.827956">
+    <tag k="name" v="秋葉ダム"/>
+    <tag k="name:en" v="Akiha Dam"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="743044640" version="2" timestamp="2017-12-31T09:45:53Z" uid="0" user="" lat="28.277132" lon="129.2977098">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="748290024" version="5" timestamp="2018-02-19T13:07:22Z" uid="0" user="" lat="35.9815935" lon="137.9055">
+    <tag k="name" v="横川ダム"/>
+    <tag k="name:en" v="Yokokawa Dam"/>
+    <tag k="source" v="survey"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="wikidata" v="Q8054654"/>
+    <tag k="wikipedia" v="ja:横川ダム (長野県)"/>
+  </node>
+  <node id="753497184" version="2" timestamp="2014-09-24T01:36:43Z" uid="0" user="" lat="40.526189" lon="140.772038">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="754032954" version="3" timestamp="2014-09-24T01:36:43Z" uid="0" user="" lat="40.597195" lon="140.69019">
+    <tag k="note" v="National-Land Numerical Information (Lake and Pond) 2005, MLIT Japan"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="note:ja" v="国土数値情報（湖沼データ）平成17年　国土交通省"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W09.html"/>
+  </node>
+  <node id="754704745" version="3" timestamp="2014-08-29T12:17:35Z" uid="0" user="" lat="38.3870074" lon="140.8221718">
+    <tag k="name" v="宮床ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="754761650" version="2" timestamp="2014-09-30T12:56:13Z" uid="0" user="" lat="40.371619" lon="140.878011">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="757233256" version="2" timestamp="2011-03-16T17:51:16Z" uid="0" user="" lat="37.123523" lon="140.828595">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="891895902" version="1" timestamp="2010-09-01T13:54:54Z" uid="0" user="" lat="34.6040792" lon="136.1196415">
+    <tag k="name" v="青蓮寺ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="971445920" version="2" timestamp="2017-03-20T01:04:29Z" uid="0" user="" lat="35.0598533" lon="136.0640201">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1058852405" version="1" timestamp="2010-12-23T10:08:54Z" uid="0" user="" lat="40.8420104" lon="140.5163925">
+    <tag k="name" v="飯詰ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1058852445" version="1" timestamp="2010-12-23T10:08:55Z" uid="0" user="" lat="40.8404688" lon="140.5175322">
+    <tag k="name" v="飯詰ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1142166225" version="1" timestamp="2011-02-08T15:25:21Z" uid="0" user="" lat="35.8195568" lon="137.6778668">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1581719652" version="2" timestamp="2012-01-07T22:54:17Z" uid="0" user="" lat="33.7771799" lon="130.5342421">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1581719668" version="2" timestamp="2012-01-07T22:54:17Z" uid="0" user="" lat="33.7769073" lon="130.5354558">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1658422018" version="1" timestamp="2012-03-04T01:08:38Z" uid="0" user="" lat="32.7908616" lon="131.6078913">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1799565925" version="1" timestamp="2012-06-23T16:05:02Z" uid="0" user="" lat="35.4410606" lon="138.9077386">
+    <tag k="source" v="survey 2012-06-23"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1799565947" version="1" timestamp="2012-06-23T16:05:03Z" uid="0" user="" lat="35.4415519" lon="138.9073937">
+    <tag k="source" v="survey 2012-06-23"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1799565970" version="1" timestamp="2012-06-23T16:05:04Z" uid="0" user="" lat="35.4429201" lon="138.906604">
+    <tag k="source" v="survey 2012-06-23"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1799565974" version="1" timestamp="2012-06-23T16:05:04Z" uid="0" user="" lat="35.4436682" lon="138.9061765">
+    <tag k="source" v="survey 2012-06-23"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="1799565981" version="1" timestamp="2012-06-23T16:05:04Z" uid="0" user="" lat="35.4443055" lon="138.9057976">
+    <tag k="source" v="survey 2012-06-23"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="2682052073" version="1" timestamp="2014-02-20T14:32:07Z" uid="0" user="" lat="35.4688508" lon="137.1721928">
+    <tag k="name" v="丸山ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="2993819297" version="1" timestamp="2014-08-03T12:27:26Z" uid="0" user="" lat="39.8011624" lon="140.2166548">
+    <tag k="name" v="旭川治水ダム"/>
+    <tag k="name:en" v="Asahikawa Dum"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3063486280" version="2" timestamp="2016-11-23T17:22:47Z" uid="0" user="" lat="34.9348697" lon="136.0431162">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3081964690" version="2" timestamp="2016-03-25T09:17:12Z" uid="0" user="" lat="42.5936081" lon="142.9516214">
+    <tag k="name" v="ピョウタンの滝"/>
+    <tag k="name:en" v="Pyoutan Falls"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="name:ja_rm" v="pyōtannotaki"/>
+    <tag k="name:ja_kana" v="ぴょうたんのたき"/>
+  </node>
+  <node id="3088942451" version="1" timestamp="2014-09-21T11:47:07Z" uid="0" user="" lat="39.4147924" lon="141.0136011">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3316991495" version="1" timestamp="2015-01-28T16:10:51Z" uid="0" user="" lat="34.8715068" lon="134.2505055">
+    <tag k="name" v="八塔寺川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3351314919" version="1" timestamp="2015-02-15T07:36:59Z" uid="0" user="" lat="41.8026892" lon="140.1846794">
+    <tag k="name" v="上ノ国ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3391116079" version="1" timestamp="2015-03-09T15:28:44Z" uid="0" user="" lat="41.9481592" lon="140.1657728">
+    <tag k="name" v="逆川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3521908345" version="1" timestamp="2015-05-16T14:05:21Z" uid="0" user="" lat="33.3119751" lon="130.1467167">
+    <tag k="name" v="八丁ダム"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3521908346" version="1" timestamp="2015-05-16T14:05:21Z" uid="0" user="" lat="33.3166992" lon="130.1254478">
+    <tag k="name" v="岸川ダム"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3523574998" version="1" timestamp="2015-05-17T13:58:17Z" uid="0" user="" lat="35.2261725" lon="134.0405002">
+    <tag k="name" v="黒木ダム"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3624916121" version="1" timestamp="2015-06-29T10:28:03Z" uid="0" user="" lat="35.3961956" lon="136.9795371">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3652910362" version="3" timestamp="2016-08-02T04:27:45Z" uid="0" user="" lat="38.2021544" lon="140.6972158">
+    <tag k="name" v="釜房ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3697993216" version="1" timestamp="2015-08-15T01:59:46Z" uid="0" user="" lat="37.7187271" lon="140.8332418">
+    <tag k="name" v="真野ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3698190025" version="1" timestamp="2015-08-15T06:53:11Z" uid="0" user="" lat="37.5992125" lon="140.9053208">
+    <tag k="name" v="横川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3698190030" version="1" timestamp="2015-08-15T06:53:11Z" uid="0" user="" lat="37.5729713" lon="140.8812767">
+    <tag k="name" v="鉄山ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3698194515" version="1" timestamp="2015-08-15T07:00:49Z" uid="0" user="" lat="37.63024" lon="140.8913879">
+    <tag k="name" v="高の倉ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3820184502" version="1" timestamp="2015-11-06T07:08:38Z" uid="0" user="" lat="42.9849588" lon="141.1574053">
+    <tag k="name" v="定山渓ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3820410422" version="1" timestamp="2015-11-06T09:24:57Z" uid="0" user="" lat="43.4777582" lon="141.5944197">
+    <tag k="name" v="青山ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3820448634" version="2" timestamp="2016-03-11T08:27:44Z" uid="0" user="" lat="43.2844673" lon="142.0993727">
+    <tag k="name" v="芦別ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3820458586" version="1" timestamp="2015-11-06T09:59:51Z" uid="0" user="" lat="43.2957097" lon="142.095247">
+    <tag k="name" v="キムンダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="3967070809" version="4" timestamp="2016-08-21T11:29:08Z" uid="0" user="" lat="35.3456287" lon="139.9888402">
+    <tag k="name" v="矢那川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4041238311" version="3" timestamp="2016-03-11T13:24:11Z" uid="0" user="" lat="42.5435816" lon="142.5370761">
+    <tag k="name" v="岩清水ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4072808892" version="1" timestamp="2016-03-22T05:23:29Z" uid="0" user="" lat="44.2671379" lon="142.2150184">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4221664877" version="1" timestamp="2016-06-02T13:46:49Z" uid="0" user="" lat="36.9517556" lon="139.8848745">
+    <tag k="name" v="塩原ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4297303195" version="1" timestamp="2016-07-12T01:53:10Z" uid="0" user="" lat="34.2567925" lon="129.2911422">
+    <tag k="name" v="Kechi Dam"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4330767903" version="3" timestamp="2018-02-06T08:21:50Z" uid="0" user="" lat="36.6593631" lon="137.1047308">
+    <tag k="name" v="古洞ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4457866808" version="1" timestamp="2016-10-21T13:20:54Z" uid="0" user="" lat="34.8908906" lon="137.8117684">
+    <tag k="name" v="船明ダム"/>
+    <tag k="name:en" v="FunagiraDam"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4482973991" version="1" timestamp="2016-11-04T21:39:34Z" uid="0" user="" lat="28.4734234" lon="129.6990326">
+    <tag k="name" v="須野ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4513249577" version="1" timestamp="2016-11-21T07:40:25Z" uid="0" user="" lat="35.2714135" lon="134.3328722">
+    <tag k="name" v="三滝ダム"/>
+    <tag k="source" v="GSImaps/std"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4516460055" version="1" timestamp="2016-11-23T04:14:10Z" uid="0" user="" lat="33.83539" lon="129.7491935">
+    <tag k="name" v="男女岳ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4607199161" version="1" timestamp="2017-01-14T03:26:55Z" uid="0" user="" lat="34.9674589" lon="135.9935027">
+    <tag k="name" v="オランダ堰堤"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4615896644" version="1" timestamp="2017-01-18T09:13:44Z" uid="0" user="" lat="34.2307207" lon="129.2995994">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4672089719" version="1" timestamp="2017-02-07T14:32:08Z" uid="0" user="" lat="34.936259" lon="139.0697494">
+    <tag k="name" v="奥野ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4715941003" version="1" timestamp="2017-03-04T02:50:15Z" uid="0" user="" lat="34.5884402" lon="135.8765266">
+    <tag k="name" v="天理ダム"/>
+    <tag k="name:en" v="Tenri-dam"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4751851596" version="3" timestamp="2017-03-24T01:32:28Z" uid="0" user="" lat="38.9866318" lon="140.911846">
+    <tag k="name" v="矢櫃ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4769091336" version="2" timestamp="2017-04-03T12:45:45Z" uid="0" user="" lat="34.8966516" lon="135.6792276">
+    <tag k="note" v="砂防ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4785695300" version="1" timestamp="2017-04-10T07:34:11Z" uid="0" user="" lat="34.9276281" lon="135.6331693">
+    <tag k="name" v="築堤"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4859389613" version="1" timestamp="2017-05-17T09:11:34Z" uid="0" user="" lat="31.7036214" lon="131.4568478">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="4956641029" version="1" timestamp="2017-07-07T11:45:45Z" uid="0" user="" lat="33.0372657" lon="130.8494288">
+    <tag k="name" v="竜門ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5082292503" version="1" timestamp="2017-09-05T19:11:07Z" uid="0" user="" lat="26.2136449" lon="127.7415568">
+    <tag k="name" v="池田ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5229449356" version="1" timestamp="2017-11-15T02:51:26Z" uid="0" user="" lat="36.5605495" lon="137.3132018">
+    <tag k="name" v="熊野川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5234137853" version="1" timestamp="2017-11-17T03:51:36Z" uid="0" user="" lat="36.4841627" lon="136.8702121">
+    <tag k="name" v="城端ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5234146093" version="1" timestamp="2017-11-17T03:55:18Z" uid="0" user="" lat="36.5013309" lon="136.862369">
+    <tag k="name" v="是ヶ谷ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5236526220" version="1" timestamp="2017-11-18T14:59:54Z" uid="0" user="" lat="35.4399256" lon="139.101581">
+    <tag k="name" v="玄倉ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5284976589" version="1" timestamp="2017-12-15T00:28:48Z" uid="0" user="" lat="36.4732607" lon="136.671201">
+    <tag k="name" v="内川ダム"/>
+    <tag k="waterway" v="dam"/>
+    <tag k="website" v="http://damnet.or.jp/cgi-bin/binranA/All.cgi?db4=0915"/>
+    <tag k="wikidata" v="Q7876719"/>
+    <tag k="wikipedia" v="ja:内川ダム"/>
+  </node>
+  <node id="5284986877" version="1" timestamp="2017-12-15T00:40:56Z" uid="0" user="" lat="36.4888718" lon="136.6812743">
+    <tag k="name" v="新内川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5298686021" version="1" timestamp="2017-12-22T03:23:50Z" uid="0" user="" lat="36.560924" lon="136.7787293">
+    <tag k="name" v="医王ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5388609461" version="1" timestamp="2018-02-05T06:22:59Z" uid="0" user="" lat="36.0966829" lon="133.0222668">
+    <tag k="name" v="美田ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5388610316" version="1" timestamp="2018-02-05T06:23:54Z" uid="0" user="" lat="36.088776" lon="133.0424348">
+    <tag k="name" v="大山ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5391741162" version="1" timestamp="2018-02-06T06:30:04Z" uid="0" user="" lat="37.3841849" lon="140.9428622">
+    <tag k="name" v="坂下ダム管理棟"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5397159222" version="1" timestamp="2018-02-08T00:06:36Z" uid="0" user="" lat="36.2895698" lon="136.5794094">
+    <tag k="name" v="大日川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5397199144" version="1" timestamp="2018-02-08T00:38:56Z" uid="0" user="" lat="36.2926881" lon="136.6407237">
+    <tag k="name" v="手取川第二ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5397227917" version="1" timestamp="2018-02-08T01:11:24Z" uid="0" user="" lat="36.4982086" lon="136.7145463">
+    <tag k="name" v="辰巳ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5442557012" version="2" timestamp="2018-12-04T13:34:23Z" uid="0" user="" lat="36.2483443" lon="136.8931956">
+    <tag k="name" v="鳩谷ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5452635670" version="1" timestamp="2018-03-04T03:54:33Z" uid="0" user="" lat="35.2852767" lon="133.1537138">
+    <tag k="name" v="布部ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5460855739" version="1" timestamp="2018-03-07T04:10:43Z" uid="0" user="" lat="36.2065769" lon="136.3786437">
+    <tag k="name" v="九谷ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5463386131" version="1" timestamp="2018-03-08T03:18:11Z" uid="0" user="" lat="36.2108517" lon="136.3493387">
+    <tag k="name" v="我谷ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5465895078" version="1" timestamp="2018-03-09T03:49:28Z" uid="0" user="" lat="36.4699826" lon="136.8060447">
+    <tag k="name" v="刀利ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5471994271" version="1" timestamp="2018-03-12T03:27:59Z" uid="0" user="" lat="37.4712063" lon="137.2633387">
+    <tag k="name" v="岩坂ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5472014563" version="1" timestamp="2018-03-12T03:44:08Z" uid="0" user="" lat="37.4449134" lon="137.147435">
+    <tag k="name" v="若山ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5472014568" version="1" timestamp="2018-03-12T03:44:08Z" uid="0" user="" lat="37.392003" lon="137.1770981">
+    <tag k="name" v="小屋ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5475796081" version="1" timestamp="2018-03-13T14:28:36Z" uid="0" user="" lat="36.4308835" lon="136.74671">
+    <tag k="name" v="犀川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5476966447" version="1" timestamp="2018-03-14T03:58:41Z" uid="0" user="" lat="37.2626493" lon="136.832175">
+    <tag k="name" v="八ヶ川ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5487646824" version="1" timestamp="2018-03-19T03:24:43Z" uid="0" user="" lat="37.4985075" lon="137.3241071">
+    <tag k="name" v="寺家ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5586118756" version="1" timestamp="2018-04-29T13:09:48Z" uid="0" user="" lat="35.4584758" lon="134.2105364">
+    <tag k="fixme" v="waterwayのタグ"/>
+    <tag k="name" v="向国安水源地取水塔"/>
+    <tag k="source" v="opendata-catalog"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5648718440" version="1" timestamp="2018-05-29T04:08:19Z" uid="0" user="" lat="36.9840661" lon="136.9646646">
+    <tag k="name" v="多根ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5650774949" version="1" timestamp="2018-05-30T04:06:36Z" uid="0" user="" lat="37.3381757" lon="137.1829794">
+    <tag k="name" v="山口防災ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5651349165" version="1" timestamp="2018-05-30T09:20:05Z" uid="0" user="" lat="37.3562828" lon="137.1874114">
+    <tag k="name" v="福光ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5694826570" version="1" timestamp="2018-06-16T13:54:43Z" uid="0" user="" lat="37.051156" lon="138.6576325">
+    <tag k="name" v="トヤ沢砂防えん堤"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5708818794" version="1" timestamp="2018-06-21T13:33:10Z" uid="0" user="" lat="36.8828241" lon="136.8522078">
+    <tag k="name" v="神子原ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5710083959" version="1" timestamp="2018-06-22T03:54:46Z" uid="0" user="" lat="36.8368954" lon="136.819949">
+    <tag k="name" v="新宮ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5710697013" version="1" timestamp="2018-06-22T08:33:51Z" uid="0" user="" lat="37.2344694" lon="137.049135">
+    <tag k="name" v="諸橋ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5710698530" version="1" timestamp="2018-06-22T08:33:51Z" uid="0" user="" lat="37.2244475" lon="137.0442054">
+    <tag k="name" v="宮田ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5824895661" version="1" timestamp="2018-08-11T07:55:27Z" uid="0" user="" lat="34.6645847" lon="133.6277081">
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="5860975634" version="1" timestamp="2018-08-27T12:41:07Z" uid="0" user="" lat="36.2963311" lon="136.4844867">
+    <tag k="name" v="赤瀬ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+  <node id="6124499217" version="1" timestamp="2018-12-08T05:54:00Z" uid="0" user="" lat="36.5889679" lon="139.0547671">
+    <tag k="name" v="綾戸ダム"/>
+    <tag k="waterway" v="dam"/>
+  </node>
+</osm>
